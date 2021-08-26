@@ -1,0 +1,12 @@
+.input-field{
+    border: rgb(129, 129, 129) 1px solid;
+    outline: none;
+    height: 2em;
+    width: 13em;
+    display: block;
+    margin: 3px 0 20px 0;
+}
+
+#error{
+    color: rgb(170, 20, 20);
+}
