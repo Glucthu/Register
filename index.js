@@ -1,5 +1,4 @@
-function verifyForm()
-{
+function verifyForm(){
     if (verifyEmail() && verifyPassword()){
         window.location = "Registered.html";
     }
@@ -38,4 +37,8 @@ function verifyPassword(){
         document.getElementById("retype-password").style.borderColor = "rgb(129, 129, 129)";
         return true
     }
+}
+
+function returnHome(){
+    window.location = "index.html";
 }

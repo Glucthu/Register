@@ -1,6 +1,6 @@
 body{ 
     background: linear-gradient(#133469, #090b1a, #090b1a); 
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 #background{
