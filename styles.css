@@ -11,7 +11,7 @@ body{
     filter: brightness(0.8) blur(5px);
 }
 
-#register-form, #registered-box{
+#form-window, #registered-box{
     color: white;
     position: absolute;
     left: 50%;
